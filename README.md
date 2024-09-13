@@ -1,6 +1,5 @@
 # Alejandro Tomás Pacheco Rodríguez
 Cuenta dedicada a almacenar todos mis proyectos de programación
-### Hi there 👋
 
 <!--
 **ATPRodriguez/ATPRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
